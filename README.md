@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **ReactJs Hooks**
 - 👯 I’m looking to collaborate on ...**MERN STACK**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: ...[Gmail](bhargavtenali@gmail.com)
+- 📫 How to reach me: ...[Gmail](mailto:bhargavtenali@gmail.com)
 - Artist🎨🤘
 - 🤗Extroverted Introvert!😐
 
