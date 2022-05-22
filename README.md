@@ -4,13 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **ReactJs**
-- 🌱 I’m currently learning **ReactJs Hooks**
+- 🔭 I’m currently working as **Javascript Full Stack Developer**
 - 👯 I’m looking to collaborate on ...**MERN STACK**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: ...[Gmail](mailto:bhargavtenali@gmail.com)
 - Artist🎨🤘
-- 🤗Extroverted Introvert!😐
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
