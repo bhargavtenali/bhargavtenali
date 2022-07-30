@@ -1,7 +1,5 @@
 ### Hi 👋 I'm Tenali Bhargav </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavtenali&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavtenali" /> </p>  </br>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as **Javascript Full Stack Developer**
