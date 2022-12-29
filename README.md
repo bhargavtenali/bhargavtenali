@@ -2,6 +2,7 @@
 
 # Hi, Myself <a href="https://bhargavtenali.netlify.app/" target="_blank">Bhargav Tenali</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br/>
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### Here are some ideas to get you started:
@@ -12,7 +13,7 @@
 - 📫 How to reach me: ...[Gmail](mailto:bhargavtenali@gmail.com)
 - 🔭 I just launched my portfolio: **[https://bhargavtenali.netlify.app/](https://bhargavtenali.netlify.app/)**
 - 💼 See my experience over the year: **[Resume](https://drive.google.com/file/d/11k_hEbAaj0S92ce5vpOr1-b0b5YdfAGP/view?usp=sharing)**
-- Artist🎨🤘
+- Artist 🎨 🤘
 
 <br/>
 
