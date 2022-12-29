@@ -11,7 +11,7 @@
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: ...[Gmail](mailto:bhargavtenali@gmail.com)
 - 🔭 I just launched my portfolio: **[https://bhargavtenali.netlify.app/](https://bhargavtenali.netlify.app/)**
-- 💼 See my experience over the year: **[Resume]()**
+- 💼 See my experience over the year: **[Resume](https://drive.google.com/file/d/11k_hEbAaj0S92ce5vpOr1-b0b5YdfAGP/view?usp=sharing)**
 - Artist🎨🤘
 
 <br/>
