@@ -38,7 +38,7 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,py,sqlite,postgres)]()
+[![](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,py,sqlite,postgres&perline=4)]()
 
 <br/>
 
@@ -51,7 +51,7 @@
 
 <br/>
 
-
+<br/>
 
 <p>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavtenali&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
