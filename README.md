@@ -7,7 +7,7 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working as **Full Stack Developer** at Kayrros, France
+- 🔭 I’m currently working as **Full Stack Developer** at **[Kayrros, France](https://www.kayrros.com/)**
 - 👯 I’m looking to collaborate on ...**Frontend and Backend**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: ...[Gmail](mailto:bhargavtenali@gmail.com)
